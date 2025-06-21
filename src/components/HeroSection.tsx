@@ -13,7 +13,7 @@ const HeroSection: React.FC = () => (
         SPEAK UP
       </span>
       <h1 className="text-3xl md:text-6xl font-bold mb-4 text-white drop-shadow-lg leading-tight">
-        תא הטלפון החלומי לאירוע שלך
+        תא הטלפון החלומי של סער המסכן לאירוע שלך
       </h1>
       <p className="text-lg md:text-2xl mb-8 text-white font-medium opacity-90">
         אהבה, רגשות וברכות מוקלטים ונשמרים לנצח במזכרת מרגשת

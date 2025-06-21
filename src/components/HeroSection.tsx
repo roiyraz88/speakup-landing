@@ -4,19 +4,19 @@ const HeroSection: React.FC = () => (
   <section
     id="hero"
     className="relative h-screen flex flex-col justify-center items-center bg-cover bg-center"
-    style={{ backgroundImage: "url('/logo.png')" }}
+    style={{ backgroundImage: "url('/hero-image.png')" }}
   >
     {/* Overlay */}
     <div className="absolute inset-0 bg-black/30 z-0" />
     <div className="relative z-10 flex flex-col items-center text-center px-4">
       <span className="text-white text-lg mb-2 tracking-widest opacity-80">
-        SPEAK UP
+        
       </span>
       <h1 className="text-3xl md:text-6xl font-bold mb-4 text-white drop-shadow-lg leading-tight">
-        תא הטלפון החלומי לאירוע שלך
+        SPEAK-UP - ספיק-אפ
       </h1>
       <p className="text-lg md:text-2xl mb-8 text-white font-medium opacity-90">
-        אהבה, רגשות וברכות מוקלטים ונשמרים לנצח במזכרת מרגשת
+        האטרקציה שתטיס את האירוע שלכם ללונדון
       </p>
       <div className="flex flex-col md:flex-row gap-4 w-full md:w-auto justify-center">
         <a
